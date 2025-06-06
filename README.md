@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full stack Web Development Projects**
 
-- 📫 How to reach me **narendranaidu5398@gmail.com**
+- 📫 How to reach me **dirisalanarendra0419@gmail.com && 9441610114**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H1SHxjmljmFzIHsNrf4aJGV8bRd_3llN/view?usp=sharing](https://drive.google.com/file/d/1BbdM9_zHRCAc_5IM1Gn8q4jqEsh1bgnw/view?usp=sharing)
 
