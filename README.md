@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Naidu</h1>
-<h3 align="center">A passionate Full Stack developer and a Machine Learning enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack developer and a Infrastructure Engineer in Barclays</h3>
 
 - 🔭 I’m currently working on **Full stack Web Development Projects**
 
